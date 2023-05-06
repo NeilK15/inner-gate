@@ -12,6 +12,8 @@ public class TowerData : ScriptableObject
 
     public float damage;
 
+    public float fireRate;
+
     public float range;
 
     public GameObject prefab;
